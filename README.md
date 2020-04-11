@@ -1,2 +1,2 @@
 # liamcotton.se
-Develop home page
+The official repository for liamcotton.se
